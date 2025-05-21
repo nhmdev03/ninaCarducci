@@ -1,0 +1,53 @@
+{
+    "name": "Nina Carducci",
+    "short_name": "Nina C.",
+    "icons": [
+        {
+            "src": "./assets/favicon/apple-touch-icon-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "./assets/favicon/apple-touch-icon.png",
+            "sizes": "180x180",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "./assets/favicon/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "./assets/favicon/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "./assets/favicon/favicon-16x16.png",
+            "sizes": "16x16",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "./assets/favicon/favicon-32x32.png",
+            "sizes": "32x32",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "./assets/favicon/favicon.ico",
+            "sizes": "64x64",
+            "type": "image/x-icon",
+            "purpose": "maskable"
+        }
+    ],
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF",
+    "display": "standalone",
+    "description": "La photographe professionnelle Nina Carducci propose des séances photo, des retouches photo et des albums personnalisés pour les portraits, les mariages et les événements à Bordeaux, en Gironde et en Île-de-France.",
+    "start_url": "/index.html"
+}

@@ -1,0 +1,8 @@
+User-agent: *
+Sitemap: http://localhost/sitemap.xml
+
+Disallow: /assets/css/
+Disallow: /assets/favicon/
+Disallow: /assets/scripts/
+
+Allow: /assets/images/
